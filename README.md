@@ -1,16 +1,20 @@
-# introcard
+# 📇 Intro Card – Flutter Widget
 
-A new Flutter project.
+A simple and elegant **Intro Card UI** built with Flutter.  
+This widget displays a user’s **profile information** including name, role, contact details, location, website, and email — all inside a beautifully styled card.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- **Minimal & Clean Design** – Soft colors and rounded corners for a professional look.
+- **Profile Section** – Displays name, job title, and location with icons.
+- **Contact Info** – Phone number, website, and email address.
+- **Responsive Layout** – Works on different screen sizes.
+- **Reusable Component** – Encapsulated widget design for easy reuse.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![introcard](https://github.com/user-attachments/assets/993fc3ab-bead-45f9-b00f-b1f10d2dfa57)
+
+
+
